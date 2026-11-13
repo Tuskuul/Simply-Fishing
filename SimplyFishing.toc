@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Simply Fishing
+## Notes: One-key fishing and interact, fast loot, and a native settings panel.
+## Author: ChatGPT
+## Version: 1.1.0
+## SavedVariables: SimplyFishingDB
+## IconTexture: Interface\AddOns\SimplyFishing\SimplyFishingIcon
+## AddonCompartmentFunc: SimplyFishing_OnCompartmentClick
+SimplyFishing.lua
+SimplyFishing_Options.lua
